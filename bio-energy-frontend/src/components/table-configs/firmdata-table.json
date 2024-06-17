@@ -1,0 +1,57 @@
+{
+    "column1": {
+        "field": "firm",
+        "headerName": "Firm",
+        "flex": 1
+    },
+    "column2": {
+        "field": "firmName",
+        "headerName": "Firm name",
+        "flex": 1
+    },
+    "column3": {
+        "field": "product",
+        "headerName": "Energy Product",
+        "flex": 1
+    },
+    "column4": {
+        "field": "nkid",
+        "headerName": "NKID",
+        "flex": 1
+    },
+    "column5": {
+        "field": "source",
+        "headerName": "Biomass Source",
+        "flex": 1
+    },
+    "column6": {
+        "field": "power",
+        "headerName": "Power",
+        "flex": 1
+    },
+    "column7": {
+        "field": "measure",
+        "headerName": "Power measurement",
+        "flex": 1
+    },
+    "column8": {
+        "field": "quantity",
+        "headerName": "Quantity",
+        "flex": 1
+    },
+    "column9": {
+        "field": "quantityMeasurement",
+        "headerName": "Quantity measurement",
+        "flex": 1
+    },
+    "column10": {
+        "field": "heatQuantity",
+        "headerName": "Heat quantity",
+        "flex": 1
+    },
+    "column11": {
+        "field": "certification",
+        "headerName": "Certification",
+        "flex": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "column1": {
+        "field": "name",
+        "headerName": "Town Name",
+        "flex": 1
+    },
+    "column2": {
+        "field": "municipality",
+        "headerName": "Municipality",
+        "flex": 1
+    },
+    "column3": {
+        "field": "latitude",
+        "headerName": "Latitude",
+        "flex": 1
+    },
+    "column4": {
+        "field": "longtitude",
+        "headerName": "Longitude",
+        "flex": 1
+    },
+    "column5": {
+        "field": "ekatte",
+        "headerName": "EKKATE",
+        "flex": 1
+    }
+}

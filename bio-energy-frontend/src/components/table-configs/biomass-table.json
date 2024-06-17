@@ -1,0 +1,27 @@
+{
+    "column1": {
+        "field": "cnCode",
+        "headerName": "CN code",
+        "flex": 1
+    },
+    "column2": {
+        "field": "cpidCode",
+        "headerName": "CPID code",
+        "flex": 1
+    },
+    "column3": {
+        "field": "name",
+        "headerName": "ENG name",
+        "flex": 1
+    },
+    "column4": {
+        "field": "bulName",
+        "headerName": "BUL name",
+        "flex": 1
+    },
+    "column5": {
+        "field": "description",
+        "headerName": "Description",
+        "flex": 1
+    }
+}

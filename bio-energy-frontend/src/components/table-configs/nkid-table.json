@@ -1,0 +1,17 @@
+{
+    "column1": {
+        "field": "category",
+        "headerName": "Name Section",
+        "flex": 1
+    },
+    "column2": {
+        "field": "groupKID",
+        "headerName": "Group KID",
+        "flex": 1
+    },
+    "column3": {
+        "field": "sector",
+        "headerName": "Sector",
+        "flex": 1
+    }
+}

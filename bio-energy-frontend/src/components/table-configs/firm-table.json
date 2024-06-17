@@ -1,0 +1,47 @@
+{
+    "column1": {
+        "field": "eik",
+        "headerName": "EIK",
+        "flex": 1
+    },
+    "column2": {
+        "field": "name",
+        "headerName": "Firm name",
+        "flex": 1
+    },
+    "column3": {
+        "field": "description",
+        "headerName": "Description",
+        "flex": 1
+    },
+    "column4": {
+        "field": "address",
+        "headerName": "Address",
+        "flex": 1
+    },
+    "column5": {
+        "field": "town",
+        "headerName": "Town",
+        "flex": 1
+    },
+    "column6": {
+        "field": "email",
+        "headerName": "Email",
+        "flex": 1
+    },
+    "column7": {
+        "field": "startYear",
+        "headerName": "Start year",
+        "flex": 1
+    },
+    "column8": {
+        "field": "endYear",
+        "headerName": "End year",
+        "flex": 1
+    },
+    "column9": {
+        "field": "status",
+        "headerName": "Status",
+        "flex": 1
+    }
+}

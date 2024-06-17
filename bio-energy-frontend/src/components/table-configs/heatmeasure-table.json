@@ -1,0 +1,12 @@
+{
+    "column1": {
+        "field": "unit",
+        "headerName": "Measure Unit",
+        "flex": 1
+    },
+    "column2": {
+        "field": "description",
+        "headerName": "Description",
+        "flex": 1
+    }
+}

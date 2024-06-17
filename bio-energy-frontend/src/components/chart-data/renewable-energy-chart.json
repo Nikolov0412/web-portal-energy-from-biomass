@@ -1,0 +1,112 @@
+{
+    "labels": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "datasets": [
+        {
+            "label": "Wood Energy Production",
+            "data": [
+                181.536,
+                162.334,
+                180.239,
+                160.001,
+                174.625,
+                168.07,
+                172.193,
+                176.803,
+                166.222,
+                165.621,
+                168.399,
+                177.383
+            ],
+            "backgroundColor": "rgba(75, 192, 192, 0.2)",
+            "borderColor": "rgba(75, 192, 192, 1)",
+            "borderWidth": 1
+        },
+        {
+            "label": "Biofuels Production",
+            "data": [
+                219.626,
+                198.263,
+                221.853,
+                211.88,
+                228.993,
+                230.103,
+                232.083,
+                230.241,
+                226.81,
+                231.392,
+                229.48,
+                247.571
+            ],
+            "backgroundColor": "rgba(255, 159, 64, 0.2)",
+            "borderColor": "rgba(255, 159, 64, 1)",
+            "borderWidth": 1
+        },
+        {
+            "label": "Biomass Production",
+            "data": [
+                436.923,
+                392.61,
+                436.311,
+                404.21,
+                437.635,
+                429.897,
+                437.15,
+                439.568,
+                424.629,
+                429.998,
+                430.07,
+                460.841
+            ],
+            "backgroundColor": [
+                "rgba(255, 99, 132, 0.2)",
+                "rgba(54, 162, 235, 0.2)",
+                "rgba(255, 206, 86, 0.2)",
+                "rgba(75, 192, 192, 0.2)",
+                "rgba(153, 102, 255, 0.2)",
+                "rgba(255, 159, 64, 0.2)"
+            ],
+            "borderColor": [
+                "rgba(255, 99, 132, 1)",
+                "rgba(54, 162, 235, 1)",
+                "rgba(255, 206, 86, 1)",
+                "rgba(75, 192, 192, 1)",
+                "rgba(153, 102, 255, 1)",
+                "rgba(255, 159, 64, 1)"
+            ],
+            "borderWidth": 1
+        },
+        {
+            "label": "Renewable Energy Production",
+            "data": [
+                701.849,
+                660.061,
+                734.66,
+                700.046,
+                740.988,
+                691.937,
+                712.223,
+                712.241,
+                668.522,
+                700.601,
+                684.586,
+                718.624
+            ],
+            "backgroundColor": "rgba(54, 162, 235, 0.2)",
+            "borderColor": "rgba(54, 162, 235, 1)",
+            "borderWidth": 1
+        }
+    ]
+}
